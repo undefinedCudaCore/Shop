@@ -149,9 +149,9 @@ namespace Shop
                         Console.WriteLine();
                         Console.WriteLine("You have to choose option from list below:");
                         Console.WriteLine();
-                        Console.WriteLine("1. Item LIST.");
-                        Console.WriteLine("2. BUY Item.");
-                        Console.WriteLine("3. ADD item.");
+                        Console.WriteLine("1. Type 'LIST' for item list.");
+                        Console.WriteLine("2. Type 'BUY' to buy an item.");
+                        Console.WriteLine("3. Type 'Add' to add an item.");
                         Console.WriteLine();
                         Console.WriteLine("If you want to exit shop type 'Exit'.");
                         Console.WriteLine();
