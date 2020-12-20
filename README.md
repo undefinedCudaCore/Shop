@@ -1,2 +1,2 @@
 # Shop
-[![HitCount](http://hits.dwyl.com/undefinedCudaCor/Shop.svg)]
+![HitCount](http://hits.dwyl.com/undefinedCudaCor/Shop.svg)
